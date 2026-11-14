@@ -14,7 +14,7 @@ exploring to you.
 - **Quest status**: hearts that fill by quarters, a Gold Skulltula meter with every token reward, and a
   Triforce that fills with your overall progress.
 - **Items & Equipment**: N64-style Select Item and Equipment screens that fill in as you go.
-- **Navi**: tap her (“What’s next?”) to jump to your next unchecked line.
+- **Navi**: lost, or picking up after a break? Tap her (“Where was I?”) to jump to your next unchecked line.
 - **Notes**: a notepad for things like your Scarecrow tune, plus notes inside each chapter.
 - **Filters and search**: Skulltulas, Heart Pieces, Songs, Bottles and Great Fairies, Items, Incomplete
   chapters, Hide done, and a search bar that stays with you as you scroll.
