@@ -3,6 +3,18 @@
 All notable changes to this checklist. Versions follow MAJOR.MINOR.PATCH:
 a new feature bumps the middle number, a small fix or text change bumps the last one.
 
+## [1.2.0] - 2026-11-14
+### Added
+- Items & Equipment: swipe (or drag) sideways, use a sideways scroll, or tap the new ‹ › buttons to switch
+  between Select Item and Equipment. Scrolling the mouse wheel over the tab bar works too.
+- The switch now turns like the N64 pause menu, swinging the next screen in like the side of a box.
+- Two dots under the menu show which screen you’re on.
+
+### Changed
+- The selected tab is now gold so it’s obvious which screen you’re on.
+- Gold Skulltula token rewards are hidden behind a “Reveal rewards” button.
+- Chapter 9 is renamed “Death Mountain Clean-Up”.
+
 ## [1.1.1] - 2026-11-14
 ### Changed
 - Navi is bigger, with a larger speech bubble, and gives a little hop every few seconds so she reads as a button.
